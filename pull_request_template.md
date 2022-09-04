@@ -6,6 +6,8 @@
 
 ## Details of changes
 
+## Others
+
 ## Checklist before requesting a review
 - [ ] All checkstyle checks have passed
 - [ ] No compilation errors are generated
